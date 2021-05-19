@@ -1,6 +1,6 @@
-# Micard
+# DiceeApp
 
-Micard Flutter project.
+DiceeApp Flutter project.
 
 ## Getting Started
 
